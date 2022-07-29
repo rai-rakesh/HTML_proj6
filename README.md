@@ -7,4 +7,4 @@
   ## Screenshots
 ![This is an image](6.png)
   ## Website Link
-Website [Link](https://62e3a885c1b4d36bf95af579--glistening-tanuki-093616.netlify.app/)
+Website [Link](https://glistening-tanuki-093616.netlify.app/)
