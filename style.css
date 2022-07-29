@@ -1,0 +1,104 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: "Allerta";
+}
+
+#navbarMonstera {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 40px;
+}
+
+#navMid {
+    display: flex;
+    flex-direction: row;
+}
+
+#navMid div {
+    margin: 20px;
+}
+
+#navMid div h4 {
+    font-size: 20px;
+}
+
+#navEnd {
+    display: flex;
+    flex-direction: row;
+}
+
+#navEnd div {
+    margin: 20px;
+}
+
+#midWhole {
+    display: flex;
+    flex-direction: row;
+}
+
+#imgMain {
+    height: 85vh;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+#midWholePart1 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 40px;
+}
+
+#midWholePart11 {
+    margin-top: 90px;
+    width: 50%;
+}
+
+#monstera {
+    font-size: 130px;
+    font-weight: bolder;
+}
+
+#midWholePart13 {
+    display: flex;
+    flex-direction: row;
+}
+
+.midWholePart13Parts {
+    display: flex;
+    flex-direction: row;
+    width: 25%;
+}
+
+#midWholePart121 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: green;
+    width: 15%;
+    padding: 15px;
+    color: #fff;
+    font-family: "Abel";
+    margin-top: 20px;
+    border-radius: 50px;
+    margin-bottom: 60px;
+}
+
+#midWholePart121 div {
+    margin-left: 13px;
+}
+
+#midWholePart122 {
+    margin-top: 4px;
+}
+
+.midWholePart13Parts div h4 {
+    margin-left: 10px;
+}
+
+.text {
+    font-size: smaller;
+    margin-left: 10px;
+}
